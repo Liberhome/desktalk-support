@@ -2,7 +2,7 @@
 
 Effective date: May 29, 2026
 
-DeskTalk is designed for local-network communication between Macs. It does not require an account and does not use a cloud relay for messages or file transfers.
+DeskTalk is designed for local-network communication between devices running the app. It does not require an account and does not use a cloud relay for messages or file transfers.
 
 ## Data Collection
 
@@ -10,11 +10,11 @@ DeskTalk does not collect personal data, analytics, diagnostics, advertising ide
 
 ## Local Data
 
-Messages are kept only in the running app session and are not uploaded to a server by DeskTalk. Received files are saved locally to `Downloads/DeskTalk Received` on the receiving Mac.
+Messages are kept only in the running app session and are not uploaded to a server by DeskTalk. Received files are saved locally to `Downloads/DeskTalk Received` on the receiving device.
 
 ## Network Use
 
-DeskTalk uses Apple's local networking frameworks to discover and communicate with nearby Macs on the same local network after you set a room code.
+DeskTalk uses system local networking frameworks to discover and communicate with nearby devices on the same local network after you set a room code.
 
 ## Third Parties
 
