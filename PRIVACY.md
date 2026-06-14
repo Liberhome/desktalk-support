@@ -10,7 +10,7 @@ DeskTalk does not collect personal data, analytics, diagnostics, advertising ide
 
 ## Local Data
 
-Messages are kept only in the running app session and are not uploaded to a server by DeskTalk. Received files are saved locally to `Downloads/DeskTalk Received` on the receiving device.
+Messages are kept only in the running app session and are not uploaded to a server by DeskTalk. Received files are saved locally inside DeskTalk's app sandbox on the receiving device and can be revealed from the file attachment in the chat window.
 
 ## Network Use
 

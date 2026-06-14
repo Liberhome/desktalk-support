@@ -16,7 +16,7 @@ DeskTalk is a macOS app for secure local-network chat and file sharing between n
 - Check macOS Firewall and Local Network permission settings.
 - Turn off router client isolation if devices cannot discover each other.
 - Use the same room code on every device.
-- Received files are saved to `Downloads/DeskTalk Received`.
+- Received files are saved inside DeskTalk's app sandbox and can be revealed from the file attachment in the chat window.
 
 ## Contact
 
